@@ -1,7 +1,7 @@
 # Meeting-Organizer
 
 ## Overview
-A single-page application for registering, updating, and deleting meetings with clients.
+A single-page application for registering, updating, and deleting meetings.
 
 ## Features
 - **Meeting Registration Form**: Enter details like topic, date, start time, end time, and participants.
